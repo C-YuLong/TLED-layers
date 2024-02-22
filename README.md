@@ -7,6 +7,7 @@ TLED (Training-Based Approximate Layer Exploration in DNNs with Efficient Multip
 - **TLED-layers**: Contains the PyTorch implementation of TLED layers, along with CUDA and C++ files for acceleration purposes.
 - **PPCT**: Features Verilog models of PPCT multipliers that support the omission of 2 to 11 columns for optimized performance.
 - **DC**: Includes scripts for synthesizing multipliers and accelerators using the [Arizona State Predictive PDK (ASAP) 7nm process library](https://github.com/The-OpenROAD-Project/asap7) within Synopsys Design Compiler.
+- **weights:** Weights tested in LeNet and AlexNet.
 
 ## TLED-layers Overview
 
